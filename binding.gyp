@@ -181,7 +181,7 @@
               }],
             ],
             'OTHER_CPLUSPLUSFLAGS':[
-              '-std=c++11','-stdlib=libc++',
+              '-std=c++11','-std=c++14','-stdlib=libc++',
             ],
             'OTHER_LDFLAGS':[
               '-Wl,-bind_at_load',
